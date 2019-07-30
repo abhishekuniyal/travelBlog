@@ -4,6 +4,10 @@ This is a blogging site for travellers, and helps people to plan for their upcom
 
 ## Available Scripts
 
+To download dependency, you can run:
+
+### `npm install` 
+
 In the project directory, you can run:
 
 ### `node server.js`
